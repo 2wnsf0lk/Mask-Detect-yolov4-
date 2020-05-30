@@ -1,0 +1,496 @@
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000040.jpg 328,20,556,284,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000073.jpg 194,106,246,177,0 78,103,149,217,0 1,132,62,204,0 361,91,383,122,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000076.jpg 2,51,45,116,0 69,53,128,136,0 214,61,265,153,0 419,85,465,168,0 561,102,607,178,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000101.jpg 426,51,692,370,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000108.jpg 105,103,312,353,0 621,79,798,359,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000141.jpg 671,313,744,416,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000222.jpg 576,170,593,199,0 539,175,559,209,0 484,180,502,207,0 262,169,288,205,0 308,177,327,203,0 360,170,381,202,0 39,185,57,209,0 407,189,421,207,0 463,183,478,202,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000234.jpg 405,27,634,286,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000240.jpg 146,220,701,916,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000284.jpg 522,168,674,379,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000304.jpg 62,143,140,250,0 168,105,251,230,0 317,77,419,197,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000337.jpg 247,67,388,255,0 81,139,122,215,0 185,109,223,192,0 391,115,434,185,0 486,120,540,185,0 595,162,638,221,0 724,148,769,202,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000349.jpg 473,68,510,121,0 110,126,134,158,0 351,121,405,184,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000416.jpg 280,38,316,94,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000426.jpg 101,128,230,294,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000432.jpg 321,148,402,298,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000572.jpg 156,100,308,326,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000585.jpg 248,349,451,598,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000588.jpg 329,92,374,146,0 154,75,212,147,0 240,115,287,164,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000639.jpg 255,110,317,200,0 163,172,198,217,0 82,156,124,217,0 119,147,152,198,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000691.jpg 286,82,440,317,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000734.jpg 233,56,377,255,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000802.jpg 648,629,736,751,0 775,688,846,788,0 963,639,1051,749,0 1202,605,1290,724,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000806.jpg 25,160,58,192,0 118,174,149,209,0 154,158,181,193,0 203,156,231,190,0 266,155,298,195,0 332,167,357,197,0 411,180,434,206,0 464,170,487,200,0 500,180,523,205,0 549,177,574,200,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000831.jpg 33,143,62,175,0 150,136,178,161,0 412,151,433,174,0 517,143,546,177,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000889.jpg 74,47,140,121,0 400,76,446,142,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000895.jpg 100,139,120,170,0 134,148,157,178,0 172,143,203,178,0 232,136,256,168,0 303,142,323,179,0 395,126,429,163,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/000966.jpg 46,40,65,68,0 117,54,139,80,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001019.jpg 83,143,125,210,0 344,95,364,118,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001077.jpg 172,45,203,82,0 202,19,261,73,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001089.jpg 148,53,167,84,0 233,74,247,98,0 277,65,298,90,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001130.jpg 430,112,468,165,0 268,93,313,145,0 347,67,392,124,0 665,130,740,212,0 605,66,656,128,0 531,53,572,102,0 418,55,451,93,0 387,10,405,36,0 466,46,483,64,0 485,35,498,57,0 749,94,766,121,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001173.jpg 160,339,195,389,0 298,307,352,364,0 540,271,598,341,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001201.jpg 408,84,528,248,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001206.jpg 364,64,482,208,0 193,267,251,334,0 112,262,177,339,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001260.jpg 234,180,498,477,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001307.jpg 185,170,279,281,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001308.jpg 94,210,243,350,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001338.jpg 176,128,192,147,0 200,127,217,147,0 227,121,242,144,0 262,116,279,138,0 309,107,331,134,0 360,103,384,130,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001344.jpg 149,182,213,257,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001350.jpg 285,116,381,248,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001390.jpg 104,57,128,93,0 358,59,391,115,0 165,73,174,88,0 50,82,60,95,0 295,68,336,125,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001397.jpg 65,61,98,100,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001405.jpg 383,139,550,327,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001421.jpg 226,312,396,473,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001470.jpg 265,184,483,472,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001483.jpg 254,65,349,233,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001511.jpg 59,13,72,35,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001526.jpg 372,278,477,385,0 646,168,829,432,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001537.jpg 423,293,592,520,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001589.jpg 453,96,575,282,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001597.jpg 180,162,343,406,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001637.jpg 167,249,674,928,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/001652.jpg 382,48,455,167,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_2_People_Visible_13_220.jpg 109,151,152,206,0 529,151,561,195,0 793,134,841,200,0 181,702,221,754,0 504,704,543,755,0 834,672,873,725,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_2_People_Visible_13_356.jpg 506,220,650,504,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_2_People_Visible_13_425.jpg 488,133,677,410,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_2_People_Visible_13_427.jpg 394,152,562,408,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_1035.jpg 404,296,510,392,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_210.jpg 314,97,437,267,0 631,111,775,296,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_3.jpg 930,282,990,366,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_47.jpg 438,110,584,274,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_542.jpg 320,132,612,564,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_621.jpg 364,77,527,294,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_666.jpg 334,195,567,527,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_720.jpg 440,62,558,242,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_806.jpg 465,204,582,414,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_824.jpg 467,121,649,373,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_On_Location_13_99.jpg 279,498,384,696,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_233.jpg 308,166,440,406,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_242.jpg 680,214,776,344,0 304,82,402,232,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_303.jpg 468,84,606,230,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_33.jpg 359,169,578,461,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_595.jpg 200,128,266,205,0 598,47,708,211,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_656.jpg 8,62,102,188,0 106,50,222,232,0 220,36,380,228,0 412,32,646,326,0 688,34,836,230,0 846,34,966,214,0 954,64,1024,180,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_661.jpg 247,447,269,472,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_730.jpg 252,145,302,207,0 506,99,546,140,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_755.jpg 270,146,402,336,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_759.jpg 447,580,618,775,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_888.jpg 866,94,946,230,0 112,80,272,354,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/13_Interview_Interview_Sequences_13_973.jpg 308,124,374,224,0 826,166,898,264,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_122.jpg 556,60,760,364,0 250,80,434,344,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_134.jpg 426,211,582,422,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_142.jpg 246,198,362,432,0 606,304,741,466,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_143.jpg 258,223,685,852,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_192.jpg 282,146,370,262,0 492,256,590,362,0 658,22,764,182,0 900,8,1018,144,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_248.jpg 453,153,564,324,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_319.jpg 131,374,164,421,0 286,300,352,390,0 388,192,500,340,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_338.jpg 361,136,629,517,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_379.jpg 476,218,580,360,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_38.jpg 449,220,560,386,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_442.jpg 367,197,543,433,0 860,564,926,645,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_445.jpg 145,274,253,416,0 690,175,789,311,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_467.jpg 313,307,689,846,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_471.jpg 351,130,590,489,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/16_Award_Ceremony_Awards_Ceremony_16_482.jpg 425,171,695,535,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_106.jpg 306,122,366,204,0 582,170,640,256,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_12.jpg 193,312,454,635,0 423,204,684,513,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_254.jpg 606,42,714,202,0 572,68,640,218,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_349.jpg 414,108,556,324,0 552,60,690,278,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_37.jpg 252,152,318,204,0 188,280,250,334,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_39.jpg 618,266,696,368,0 716,204,810,334,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_523.jpg 414,66,560,272,0 524,64,656,270,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_832.jpg 770,158,970,272,0 148,334,272,484,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/19_Couple_Couple_19_90.jpg 333,733,456,940,0 441,787,576,973,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/1_Handshaking_Handshaking_1_341.jpg 5,132,32,220,0 152,114,266,237,0 410,193,517,307,0 789,138,898,245,0 680,184,708,221,0 644,198,666,221,0 953,235,980,262,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/1_Handshaking_Handshaking_1_483.jpg 198,76,294,202,0 530,62,630,196,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/1_Handshaking_Handshaking_1_543.jpg 611,222,637,254,0 397,191,421,235,0 326,233,347,274,0 279,191,302,239,0 222,185,253,244,0 187,192,213,247,0 92,195,120,251,0 155,197,182,260,0 393,238,410,267,0 373,234,391,267,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/1_Handshaking_Handshaking_1_671.jpg 722,212,794,328,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/1_Handshaking_Handshaking_1_682.jpg 188,270,264,364,0 712,306,790,400,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/1_Handshaking_Handshaking_1_791.jpg 567,49,648,157,0 534,0,568,38,0 368,56,401,93,0 242,0,278,45,0 966,8,997,48,0 880,15,906,48,0 774,0,798,27,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/20_Family_Group_Family_Group_20_109.jpg 179,29,239,113,0 291,160,354,239,0 404,92,468,179,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_201.jpg 236,178,444,478,0 624,364,784,606,0 882,196,950,336,0 738,50,806,150,0 512,56,596,178,0 802,408,954,652,0 12,84,132,404,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_322.jpg 680,70,782,208,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_449.jpg 456,285,819,805,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_542.jpg 333,378,438,525,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_578.jpg 462,362,528,448,0 564,348,642,454,0 822,328,930,488,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_61.jpg 195,304,275,385,0 133,125,198,198,0 346,167,402,234,0 378,110,424,160,0 464,309,527,383,0 565,382,634,488,0 799,240,874,344,0 928,30,979,89,0 776,186,837,256,0 499,128,566,199,0 660,42,701,89,0 756,101,799,142,0 648,118,699,174,0 739,164,786,214,0 63,134,97,174,0 418,145,442,172,0 426,168,447,194,0 9,150,38,181,0 383,81,398,93,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_663.jpg 90,129,916,1153,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/28_Sports_Fan_Sports_Fan_28_724.jpg 396,80,562,254,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/30_Surgeons_Surgeons_30_328.jpg 390,198,710,612,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/30_Surgeons_Surgeons_30_754.jpg 270,100,460,422,0 628,330,814,578,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/30_Surgeons_Surgeons_30_773.jpg 616,180,790,452,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/30_Surgeons_Surgeons_30_854.jpg 94,136,160,212,0 188,198,242,274,0 300,196,360,278,0 366,114,424,186,0 474,186,526,258,0 648,124,716,200,0 830,64,906,138,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/30_Surgeons_Surgeons_30_914.jpg 215,147,727,840,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/30_Surgeons_Surgeons_30_916.jpg 127,213,188,305,0 184,185,235,250,0 258,241,318,323,0 317,206,367,274,0 368,192,414,255,0 366,313,428,399,0 428,242,482,308,0 438,304,498,386,0 477,206,519,266,0 567,278,623,360,0 569,191,611,251,0 646,217,698,287,0 703,323,755,392,0 838,237,895,307,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_244.jpg 369,239,624,581,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_4.jpg 424,202,542,300,0 736,296,858,420,0 134,290,240,446,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_501.jpg 315,66,451,234,0 626,156,757,300,0 876,116,901,160,0 87,137,112,164,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_560.jpg 470,300,528,400,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_568.jpg 184,92,328,284,0 658,76,806,276,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_586.jpg 142,148,233,284,0 390,81,490,217,0 727,81,843,215,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_624.jpg 310,78,464,274,0 640,126,782,304,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_709.jpg 127,225,143,248,0 162,219,181,245,0 256,217,275,247,0 284,224,301,251,0 814,208,847,245,0 736,192,767,227,0 668,212,697,240,0 638,191,666,225,0 561,214,590,249,0 569,176,596,208,0 500,210,533,246,0 466,178,494,212,0 406,197,433,228,0 335,198,364,233,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_720.jpg 574,24,774,284,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_810.jpg 808,78,920,192,0 116,282,188,374,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_820.jpg 608,318,660,380,0 360,284,420,354,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_847.jpg 385,95,625,391,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/31_Waiter_Waitress_Waiter_Waitress_31_908.jpg 635,428,811,655,0 246,260,436,506,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_251.jpg 281,345,398,490,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_522.jpg 278,402,491,718,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_676.jpg 308,136,392,260,0 790,146,884,266,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_703.jpg 394,336,472,406,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_762.jpg 258,216,336,274,0 652,168,750,240,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_769.jpg 290,172,378,290,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_925.jpg 348,256,390,294,0 216,269,249,301,0 934,191,973,232,0 992,192,1017,233,0 546,330,577,349,0 563,271,612,301,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/32_Worker_Laborer_Worker_Laborer_32_940.jpg 824,522,888,613,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/38_Tennis_Tennis_38_128.jpg 532,108,666,260,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/38_Tennis_Tennis_38_234.jpg 406,98,415,112,0 635,122,647,135,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/38_Tennis_Tennis_38_321.jpg 532,88,608,176,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/38_Tennis_Tennis_38_966.jpg 126,38,544,676,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/39_Ice_Skating_Ice_Skating_39_119.jpg 372,142,428,204,0 556,180,608,234,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/39_Ice_Skating_Ice_Skating_39_793.jpg 511,554,807,895,0 146,642,247,757,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/40_Gymnastics_Gymnastics_40_869.jpg 802,472,874,587,0 594,539,661,631,0 500,275,567,370,0 302,267,367,357,0 175,472,252,559,0 345,834,420,926,0 614,817,689,919,0 417,547,492,644,0 709,290,774,390,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_111.jpg 446,384,696,707,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_217.jpg 142,43,192,108,0 489,43,540,108,0 813,46,862,111,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_232.jpg 532,290,704,556,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_274.jpg 218,376,314,540,0 770,132,868,298,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_351.jpg 434,132,696,492,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_353.jpg 465,59,575,211,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_368.jpg 432,68,600,304,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_499.jpg 556,350,708,550,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_5.jpg 668,310,810,454,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_674.jpg 92,22,131,67,0 363,44,382,69,0 164,321,211,365,0 379,522,411,557,0 453,570,477,603,0 843,102,1007,311,0 643,0,660,18,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimmer_41_825.jpg 517,852,626,963,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimming_41_112.jpg 482,328,584,464,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimming_41_641.jpg 472,16,700,278,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/41_Swimming_Swimming_41_769.jpg 536,147,644,300,0 527,395,623,518,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/42_Car_Racing_Car_Racing_42_1045.jpg 392,248,546,472,0 646,278,784,460,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/45_Balloonist_Balloonist_45_125.jpg 290,172,370,276,0 754,202,870,324,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/49_Greeting_peoplegreeting_49_154.jpg 412,398,600,618,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/49_Greeting_peoplegreeting_49_215.jpg 798,1009,843,1061,0 901,961,934,1006,0 631,927,664,968,0 494,953,528,994,0 434,976,470,1021,0 280,1022,313,1065,0 213,1020,252,1070,0 214,926,247,966,0 129,937,156,973,0 123,829,155,875,0 507,879,543,931,0 764,846,797,891,0 599,851,628,898,0 647,844,679,889,0 618,825,649,864,0 581,811,617,859,0 612,784,639,820,0 546,763,580,804,0 733,1012,768,1059,0 780,1021,815,1064,0 275,838,307,883,0 282,788,309,823,0 438,890,466,937,0 653,996,692,1046,0 539,1008,574,1055,0 491,757,507,779,0 287,907,315,950,0 134,879,152,912,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/49_Greeting_peoplegreeting_49_255.jpg 242,244,442,484,0 564,172,680,430,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/49_Greeting_peoplegreeting_49_54.jpg 294,86,366,194,0 492,114,562,208,0 684,66,756,170,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/49_Greeting_peoplegreeting_49_581.jpg 900,942,958,1018,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/49_Greeting_peoplegreeting_49_767.jpg 411,279,718,736,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_194.jpg
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_22.jpg 217,86,305,246,0 647,211,738,326,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_350.jpg 332,278,359,312,0 63,323,87,350,0 99,328,119,349,0 277,291,299,320,0 248,259,277,293,0 397,257,422,288,0 519,294,540,321,0 468,352,482,368,0 664,316,679,339,0 573,353,583,370,0 990,249,1014,282,0 831,157,856,202,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_431.jpg 687,119,724,158,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_675.jpg 608,2,838,258,0 188,142,432,466,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_744.jpg 298,302,498,552,0 398,228,648,492,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/4_Dancing_Dancing_4_860.jpg 452,271,551,407,0 660,310,786,424,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_108.jpg 460,219,564,341,0 64,1003,92,1041,0 128,1011,156,1054,0 919,979,952,1028,0 831,990,867,1032,0 797,1011,833,1053,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_217.jpg 866,29,909,80,0 612,35,653,85,0 333,50,373,97,0 109,42,151,102,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_262.jpg 417,162,525,312,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_271.jpg 467,57,580,230,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_377.jpg 306,308,696,870,0 790,640,956,886,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_378.jpg 281,56,368,178,0 629,51,727,201,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_392.jpg 412,142,517,281,0 212,251,263,330,0 167,204,219,274,0 366,213,416,283,0 404,85,441,132,0 127,93,161,142,0 299,100,340,154,0 0,34,20,88,0 984,158,1024,276,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_470.jpg 387,112,440,177,0 197,57,236,119,0 556,149,603,192,0 968,110,1018,178,0 770,159,822,205,0 701,92,735,150,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_481.jpg 223,55,297,162,0 751,114,909,349,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_538.jpg 438,90,552,252,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_551.jpg 86,186,240,429,0 426,201,630,509,0 773,319,923,545,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_756.jpg 348,86,461,230,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_759.jpg 753,195,819,282,0 863,228,902,286,0 190,120,374,358,0 34,159,109,295,0 226,24,257,66,0 186,26,220,64,0 467,80,494,111,0 969,248,989,278,0 533,216,567,268,0 664,220,689,257,0 817,151,831,170,0 867,149,879,163,0 906,164,917,181,0 941,171,953,186,0 920,156,928,168,0 998,174,1007,186,0 1010,169,1019,181,0 981,136,987,148,0 968,134,976,147,0 900,148,908,160,0 830,133,840,148,0 766,144,779,163,0 727,143,742,164,0 702,135,719,155,0 616,130,631,147,0 979,177,992,194,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_793.jpg 93,273,231,453,0 393,156,555,387,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_824.jpg 480,314,564,404,0 257,652,298,708,0 341,692,380,746,0 95,573,134,614,0 104,524,131,560,0 10,551,44,590,0 49,625,91,679,0 247,605,283,649,0 669,683,713,735,0 812,640,850,684,0 918,642,961,692,0 802,542,833,582,0 672,623,711,670,0 669,545,698,583,0 993,616,1020,653,0 959,557,983,591,0 95,668,124,718,0 576,450,601,492,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_874.jpg 144,381,670,1033,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_880.jpg 175,186,506,598,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_921.jpg 37,326,513,827,0 790,434,932,726,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_944.jpg 388,178,481,293,0 523,123,611,238,0 717,232,751,279,0 651,240,680,286,0 837,67,868,112,0 902,69,938,113,0 900,8,938,49,0 995,127,1024,175,0 373,72,415,129,0 167,70,208,118,0 43,71,86,123,0 39,169,94,246,0 675,168,683,179,0 657,51,674,88,0 698,54,721,90,0 105,127,160,200,0 183,241,246,315,0 230,175,285,243,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_956.jpg 206,40,282,144,0 760,32,878,224,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/51_Dresses_wearingdress_51_99.jpg 438,219,699,567,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_112.jpg 332,264,384,342,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_120.jpg 196,100,552,480,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_128.jpg 71,844,96,870,0 914,817,927,839,0 890,794,904,816,0 420,723,429,745,0 465,771,481,797,0 315,707,327,729,0 188,774,202,797,0 269,918,282,938,0 551,800,560,817,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_267.jpg 170,94,408,436,0 424,206,642,474,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_359.jpg
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_401.jpg 450,10,748,364,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_715.jpg 466,324,505,374,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_photographertakingphoto_52_745.jpg 292,129,316,159,0 518,230,552,284,0 725,149,751,193,0 318,214,388,308,0 466,326,552,423,0 783,203,850,302,0 279,273,322,396,0 340,140,394,205,0 647,254,711,344,0 622,142,654,186,0 434,167,477,211,0 454,146,495,198,0 386,124,413,163,0 872,204,918,282,0 947,228,978,274,0 477,217,526,297,0 375,209,422,293,0 504,150,528,191,0 497,111,521,138,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/52_Photographers_taketouristphotos_52_73.jpg 626,366,704,470,0 750,378,814,466,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/59_peopledrivingcar_peopledrivingcar_59_903.jpg 298,135,804,878,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/61_Street_Battle_streetfight_61_832.jpg 352,54,694,526,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_151.jpg 486,87,750,451,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_162.jpg 413,145,622,366,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_182.jpg 396,56,608,325,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_189.jpg 167,108,363,326,1 543,43,773,298,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_201.jpg 567,97,755,298,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_205.jpg 414,83,689,388,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_219.jpg 508,68,723,355,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_25.jpg 518,39,689,268,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_265.jpg 397,56,560,248,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_32.jpg 274,58,520,355,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_344.jpg 543,78,737,324,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_364.jpg 314,43,508,277,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_365.jpg 300,95,541,376,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_370.jpg 324,10,563,290,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_387.jpg 502,27,704,273,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_426.jpg 433,60,663,317,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_458.jpg 402,11,809,447,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_46.jpg 247,78,531,487,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_471.jpg 480,177,552,250,1 876,242,942,292,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_480.jpg 361,72,617,386,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_483.jpg 510,90,669,246,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/mask_95.jpg 284,41,567,362,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_107.jpg 308,132,442,297,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_121.jpg 288,151,394,279,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_127.jpg 314,49,551,372,0 602,65,835,370,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_145.jpg 318,135,425,259,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_160.jpg 220,77,569,569,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_173.jpg 388,24,487,139,0 585,46,668,127,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_187.jpg 295,111,411,243,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_207.jpg 99,60,196,199,0 391,70,487,203,0 784,41,883,174,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_286.jpg 252,115,384,268,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_289.jpg 226,89,385,252,0 741,19,960,258,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_3.jpg 319,109,577,450,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_300.jpg 274,64,407,236,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_314.jpg 229,94,634,503,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_316.jpg 258,165,390,316,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_319.jpg 276,44,728,529,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_320.jpg 306,112,413,240,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_324.jpg 183,438,339,636,0 361,449,506,637,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_336.jpg 262,125,403,294,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_343.jpg 280,144,767,665,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_358.jpg 140,27,864,1027,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_367.jpg 268,137,402,277,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_37.jpg 318,193,434,310,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_399.jpg 315,99,438,247,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_404.jpg 122,44,218,184,0 227,49,329,181,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_408.jpg 196,11,380,280,0 644,123,825,348,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_41.jpg 175,96,729,962,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_425.jpg 328,55,543,305,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_433.jpg 116,44,160,92,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_48.jpg 124,14,297,234,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_53.jpg 280,74,406,236,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_533.jpg 280,125,390,246,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_557.jpg 341,126,443,247,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_56.jpg 469,78,610,280,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_566.jpg 306,121,617,510,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_57.jpg 46,127,516,788,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_617.jpg 278,166,394,280,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_628.jpg 228,96,392,286,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_640.jpg 274,112,408,279,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_8.jpg 90,36,144,99,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_86.jpg 143,11,853,721,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/no_90.jpg 285,59,412,197,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000094.jpg 102,37,165,124,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000116.jpg 254,322,385,529,0 921,296,1069,501,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000163.jpg 113,45,160,131,0 283,38,337,105,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000214.jpg 92,188,247,392,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000216.jpg 252,60,344,171,0 90,76,172,167,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000292.jpg 344,210,565,532,0 615,410,809,743,0 1048,295,1281,660,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000430.jpg 48,60,67,80,0 79,53,96,71,0 103,64,119,75,0 124,64,138,77,0 130,44,146,53,0 147,48,155,62,0 157,50,171,60,0 177,41,190,53,0 197,50,207,59,0 212,52,223,62,0 225,46,235,55,0 239,41,250,49,0 204,35,214,45,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000451.jpg 34,59,59,80,0 114,43,138,67,0 146,48,171,70,0 227,31,257,51,0 308,23,331,52,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000488.jpg 281,274,563,446,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000492.jpg 152,64,220,117,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000496.jpg 170,46,242,110,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000543.jpg 637,210,924,466,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000551.jpg 5,97,148,246,0 260,76,363,214,0 592,155,766,300,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000593.jpg 701,251,899,430,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000616.jpg 452,168,625,319,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000617.jpg 69,107,235,245,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000653.jpg 232,237,485,432,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000755.jpg 57,39,114,98,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000788.jpg 423,93,454,126,0 211,60,251,98,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000816.jpg 29,73,122,167,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000834.jpg 114,52,175,110,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000895.jpg 208,75,254,113,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000897.jpg 759,212,878,320,0 294,324,448,479,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_000994.jpg 514,146,626,255,0 679,208,777,297,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001172.jpg 283,82,378,175,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001202.jpg 144,135,248,232,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001273.jpg 331,158,378,210,0 401,156,428,196,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001290.jpg 311,35,395,107,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001297.jpg 1225,337,1536,597,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001298.jpg 312,118,462,231,0 97,153,247,288,0 542,125,704,225,0 783,187,926,315,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001317.jpg 551,46,761,234,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001321.jpg 418,123,496,301,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001336.jpg 267,77,347,156,0 71,92,169,179,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001438.jpg 733,361,1014,590,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001452.jpg 1187,718,1926,1287,0 336,928,1090,1459,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001509.jpg 97,136,273,268,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001514.jpg 319,212,403,325,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001520.jpg 265,101,478,275,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001523.jpg 431,27,650,244,0 1,19,194,316,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001588.jpg 79,64,148,149,0 228,80,281,141,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001641.jpg 153,105,377,369,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001718.jpg 43,179,279,473,0 348,244,600,546,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001720.jpg 509,189,734,416,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001779.jpg 508,142,688,387,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001812.jpg 445,183,900,775,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001813.jpg 372,107,561,352,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001859.jpg 577,271,846,542,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001892.jpg 98,510,1048,1652,0 1490,710,2210,1613,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001938.jpg 245,235,343,320,0 829,237,896,339,0 1014,246,1085,324,0 1129,218,1195,314,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_001981.jpg 233,53,287,118,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002083.jpg 401,179,523,348,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002086.jpg 28,176,208,372,0 291,220,420,385,0 422,239,602,411,0 595,200,754,366,0 733,240,850,376,0 822,179,1004,390,0 1013,176,1148,353,0 1269,122,1426,320,0 1482,120,1602,294,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002173.jpg 210,350,658,899,0 697,300,1108,838,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002196.jpg 714,90,795,171,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002214.jpg 218,99,320,224,0 644,142,856,374,0 162,600,341,838,0 773,639,905,808,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002234.jpg 559,66,675,225,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part2_002251.jpg 134,27,173,67,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00006.jpg 1143,278,1503,601,1 652,432,770,566,1 342,384,479,526,1 595,367,630,394,1 783,316,805,339,1 250,250,281,278,1 334,246,368,275,1 1878,394,1929,447,1 1688,402,1737,449,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00010.jpg 210,490,477,846,1 464,366,619,615,1 755,684,1035,893,1 1248,502,1473,724,1 1701,479,1928,697,1 409,115,569,258,1 681,161,827,333,1 732,42,853,155,1 981,219,1196,447,1 1355,250,1548,453,1 1576,257,1735,465,1 1147,115,1237,257,1 1549,47,1609,120,1 1361,7,1439,83,1 1277,59,1378,147,1 926,1,1005,76,1 1051,1,1119,65,1 1991,215,2095,333,1 2063,91,2135,191,1 1815,218,1940,319,1 1893,144,1956,202,1 1737,192,1803,279,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00038.jpg 726,268,1139,628,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00043.jpg 1099,794,1225,882,1 1305,508,1398,573,1 1320,349,1386,422,1 1481,311,1538,367,1 1437,268,1479,322,1 1433,197,1482,234,1 1522,156,1560,197,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00129.jpg 1834,330,1902,402,1 1712,306,1770,367,1 576,441,654,520,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00131.jpg 1499,393,1547,447,1 949,504,991,556,1 1224,512,1247,539,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00143.jpg 1237,655,1318,738,1 832,657,919,738,1 274,715,351,816,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00146.jpg 1002,272,1318,595,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00179.jpg 1209,323,1613,671,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00194.jpg 1381,478,1434,521,1 1214,468,1259,510,1 1022,477,1055,510,1 845,475,882,511,1 812,548,869,619,1 646,470,683,504,1 388,557,451,624,1 286,477,318,508,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00196.jpg 1675,337,1872,519,1 1408,317,1572,487,1 1051,297,1240,491,1 671,243,897,441,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00242.jpg 958,248,1194,534,1 1198,373,1367,540,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00282.jpg 1407,343,1572,489,1 1664,313,1753,402,1 1020,435,1211,621,1 298,367,365,448,1 588,287,623,334,1 632,317,674,365,1 422,352,478,408,1 372,321,416,372,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00301.jpg 1652,147,1788,281,1 1191,230,1337,369,1 585,69,722,212,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/part3_20200213_ljx_00314.jpg 1119,362,1504,677,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/PartA_00022.jpg 475,172,507,211,0 539,178,566,222,0 780,162,820,197,0 953,85,961,101,0 940,83,954,98,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/PartA_00036.jpg 423,160,441,179,0 459,122,479,142,0 664,153,691,181,0 685,122,710,145,0 773,134,794,162,0 811,162,835,187,0 805,105,824,125,0 856,122,876,137,0 876,104,891,123,0 903,123,926,150,0 997,83,1014,111,0 596,87,615,107,0 564,79,577,95,0 532,79,551,95,0 540,122,559,140,0 498,115,507,133,0 345,130,356,140,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/PartB_00003.jpg 364,157,393,185,0 130,294,164,330,0 1,302,43,364,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/Screenshot_20200212_133408_com.qiyi.video.jpg 989,109,1314,570,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/Screenshot_20200212_134549_com.qiyi.video.jpg 1155,79,1508,573,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/Screenshot_20200212_140430_com.qiyi.video.jpg 880,320,949,403,1 269,267,363,381,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/Screenshot_20200212_140437_com.qiyi.video.jpg 842,171,1211,562,1 1535,162,1856,563,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000071.jpg 322,138,403,245,1 213,97,290,207,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000127.jpg 182,63,251,152,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000213.jpg 68,29,127,87,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000265.jpg 91,10,128,54,1 254,18,299,68,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000301.jpg 76,70,230,287,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000331.jpg 74,26,288,300,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000340.jpg 152,35,209,108,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000375.jpg 152,19,226,148,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000458.jpg 132,278,201,376,0 668,158,758,268,1 380,175,474,289,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000594.jpg 413,134,480,232,1 6,134,66,210,1 242,116,297,196,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000610.jpg 308,224,393,350,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000615.jpg 61,39,120,122,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000670.jpg 278,231,402,402,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000689.jpg 2,212,97,362,0 231,362,281,444,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000702.jpg 474,182,532,267,1 219,131,273,207,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000714.jpg 157,165,456,584,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000765.jpg 395,639,650,1012,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000796.jpg 429,205,482,266,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000831.jpg 135,385,256,546,1 663,488,759,651,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000846.jpg 288,119,349,208,1 150,202,196,268,1 583,132,625,233,0 434,234,468,286,1 1,170,32,257,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000905.jpg 118,50,257,254,1 225,215,346,390,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000924.jpg 154,35,401,377,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000927.jpg 109,12,413,459,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00000983.jpg 258,113,431,324,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001042.jpg 184,48,314,234,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001054.jpg 269,165,619,633,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001132.jpg 153,29,274,197,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001172.jpg 53,33,145,155,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001183.jpg 89,126,302,425,1 440,169,697,477,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001263.jpg 268,92,530,452,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001282.jpg 286,71,457,267,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001345.jpg 106,407,207,549,1 77,67,183,206,1 403,207,524,383,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001379.jpg 167,60,257,195,1 270,71,321,162,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001404.jpg 86,92,145,172,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001411.jpg 41,0,161,130,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001413.jpg 143,68,256,198,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001452.jpg 67,288,130,377,1 199,282,274,388,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001470.jpg 313,207,426,340,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001478.jpg 261,135,519,512,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001550.jpg 53,37,122,130,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001555.jpg 574,11,727,212,1 219,95,333,273,1 457,194,579,335,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001655.jpg 135,157,372,461,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001659.jpg 105,134,304,432,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001669.jpg 311,151,529,467,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001680.jpg 30,9,158,210,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001743.jpg 77,26,117,84,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001763.jpg 75,62,142,148,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001765.jpg 20,16,126,134,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001790.jpg 191,68,458,447,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001804.jpg 280,88,588,554,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001817.jpg 248,203,778,718,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001818.jpg 44,102,89,177,0 141,89,261,273,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001883.jpg 229,230,258,274,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001897.jpg 144,106,276,263,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001965.jpg 227,117,349,274,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00001988.jpg 327,149,427,273,1 47,240,137,355,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002048.jpg 308,103,438,303,1 1,384,16,412,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002061.jpg 177,281,201,318,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002080.jpg 39,21,103,114,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002124.jpg 128,100,221,221,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002167.jpg 327,222,419,355,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002217.jpg 189,272,224,323,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002290.jpg 105,128,127,170,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002330.jpg 799,135,852,212,1 600,101,653,180,1 94,72,163,157,0 287,89,349,172,0 448,139,501,216,1 190,25,228,67,0 496,65,563,147,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002400.jpg 104,1,378,342,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002434.jpg 118,78,361,374,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002448.jpg 119,145,330,371,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002461.jpg 213,306,320,478,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002481.jpg 60,0,323,367,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002486.jpg 174,46,309,223,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002508.jpg 56,0,730,606,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002521.jpg 315,63,661,553,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002573.jpg 448,283,576,447,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002595.jpg 209,41,307,173,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002621.jpg 159,166,322,411,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002637.jpg 147,115,262,286,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002644.jpg 202,27,273,123,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002659.jpg 109,110,302,372,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002696.jpg 168,79,365,316,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002702.jpg 86,50,259,299,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002734.jpg 259,97,477,388,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002769.jpg 284,26,341,103,1 64,26,120,98,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002797.jpg 225,57,268,115,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002827.jpg 57,17,114,91,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002847.jpg 128,91,193,184,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002925.jpg 364,41,419,97,0 115,46,151,85,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002952.jpg 80,92,271,362,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00002989.jpg 14,414,67,493,0 318,399,365,470,0 154,57,219,161,0 110,75,134,120,0 380,205,398,249,0 15,309,52,373,0 14,253,50,298,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003053.jpg 178,104,321,310,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003093.jpg 423,104,681,465,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003112.jpg 115,44,181,134,1 38,62,103,174,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003116.jpg 228,95,332,225,0 588,78,679,211,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003118.jpg 123,102,215,237,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003198.jpg 100,39,151,93,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003209.jpg 443,127,480,170,0 195,125,230,163,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003224.jpg 45,56,108,135,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003276.jpg 171,39,329,284,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003309.jpg 131,42,158,97,0 111,39,132,97,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003361.jpg 106,85,237,261,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003373.jpg 230,154,451,465,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003446.jpg 189,1,411,267,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003464.jpg 56,1,138,81,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003469.jpg 47,211,177,350,0 345,130,447,245,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003483.jpg 98,36,167,124,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003550.jpg 156,129,475,567,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003557.jpg 107,72,154,129,0 199,103,248,164,0 77,133,88,147,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003635.jpg 132,105,314,370,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003654.jpg 95,62,157,122,0 395,84,443,149,0 260,96,316,157,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003680.jpg 226,156,386,406,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003763.jpg 185,48,322,206,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003772.jpg 58,1,150,113,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003775.jpg 404,117,465,193,0 74,47,145,120,0 215,103,280,174,0 310,104,367,174,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003873.jpg 112,1,254,185,0 206,265,283,367,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003892.jpg 474,91,563,216,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003917.jpg 214,258,556,694,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00003918.jpg 256,196,470,465,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004003.jpg 179,6,380,251,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004015.jpg 382,271,779,839,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004133.jpg 83,17,143,94,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004136.jpg 119,115,245,281,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004138.jpg 262,82,415,261,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004154.jpg 40,62,110,158,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004157.jpg 260,391,388,531,1 537,329,655,479,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004177.jpg 330,89,565,403,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004221.jpg 128,92,286,270,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004323.jpg 261,136,554,531,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004324.jpg 85,24,151,104,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004337.jpg 226,146,459,423,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004356.jpg 358,22,421,97,0 200,72,272,166,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004513.jpg 73,95,226,282,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004522.jpg 218,93,353,295,0 380,198,480,341,0
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004535.jpg 136,129,175,194,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004624.jpg 300,116,439,289,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004656.jpg 151,89,346,380,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004690.jpg 126,37,353,339,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004710.jpg 110,85,289,282,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004720.jpg 526,146,587,231,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004787.jpg 298,65,361,163,1 120,70,196,163,1
+C:\Users\alpha1066\Desktop\MaskDetect-master/VOC_data/VOC_mask/img/test_00004871.jpg 236,37,334,150,1
